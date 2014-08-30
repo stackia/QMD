@@ -1,6 +1,6 @@
 # QMD
 
-![QMD icon](http://github.com/stackda/QMD)
+![QMD icon](http://i.v2ex.co/55AHS6H0b.png)
 
 ## Overview
 
@@ -141,13 +141,6 @@ First Header | Second Header | Third Header
 ------------ | ------------- | ------------
 Content Cell | Content Cell  | Content Cell
 Content Cell | Content Cell  | Content Cell
-
-If you wish, you can add a leading and tailing pipe to each line of the table:
-
-| First Header | Second Header | Third Header |
-| ------------ | ------------- | ------------ |
-| Content Cell | Content Cell  | Content Cell |
-| Content Cell | Content Cell  | Content Cell |
 
 Specify alignement for each column by adding colons to separator lines:
 
