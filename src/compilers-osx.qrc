@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+        <file>compilers/multimarkdown/multimarkdown-osx</file>
+        <file>compilers/discount/discount-osx</file>
+    </qresource>
+</RCC>

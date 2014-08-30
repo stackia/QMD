@@ -1,0 +1,6 @@
+<RCC>
+<qresource>
+    <file>template.html</file>
+    <file alias="smallAppIcon.png">gfx/icon-small.png</file>
+</qresource>
+</RCC>

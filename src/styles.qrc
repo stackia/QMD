@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/styles">
+        <file alias="Solarized dark">peg-markdown-highlight/styles/solarized-dark.style</file>
+        <file alias="Solarized light">peg-markdown-highlight/styles/solarized-light.style</file>
+        <file alias="Solarized dark (subtle)">peg-markdown-highlight/styles/solarized-dark-subtle.style</file>
+        <file alias="Solarized light (subtle)">peg-markdown-highlight/styles/solarized-light-subtle.style</file>
+        <file alias="Default">peg-markdown-highlight/styles/default.style</file>
+    </qresource>
+</RCC>

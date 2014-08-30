@@ -1,0 +1,14 @@
+syntax: glob
+
+.DS_Store
+*-build-*
+*.pro.user*
+*.orig
+*.zip
+*~
+*Setup.exe
+*setup.exe
+qarkdown-windows-installerfiles
+*.autosave
+*.swp
+
